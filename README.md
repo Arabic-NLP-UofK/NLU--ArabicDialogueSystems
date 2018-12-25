@@ -1,2 +1,2 @@
-# NLU--ArabicDialogueSystems
-this is the code for implementing the models used in "Implementation of A Neural Natural Language Understanding Component for Arabic Dialogue Systems"
+# text_classification_CNN_arabic
+This work was used to implement an intent classification module for Arabic text data using CNN 
